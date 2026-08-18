@@ -9,6 +9,7 @@ This project provides a market intelligence analysis of Iranian raisin exports (
 The analysis combines international trade data, market-access information, tariff conditions, non-tariff measures, competitive indicators, and export potential data to evaluate the attractiveness and risks of different markets for Iranian raisin exporters.
 
 The project was developed as part of an International Trade Centre (ITC) training program focused on international trade intelligence and market-access analysis.
+
 ![Project Preview](image/FactSheet_start.JPG)
 
 ---
@@ -322,6 +323,8 @@ However, exporters would need to address:
 ---
 
 # Key Findings
+
+![Key Findings](image/FactSheet_end.JPG)
 
 ### 1. Turkey is a large but highly competitive market
 
